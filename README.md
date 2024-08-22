@@ -7,5 +7,6 @@ Below is the model of the databases used for building the BI application.
 
 The data has been manipulated and does not reflect the actual information.
 
-![image](https://github.com/user-attachments/assets/dac34899-8a07-4038-b8c0-24fd7574b431)
+![Captura de tela 2024-08-22 122809](https://github.com/user-attachments/assets/cb229223-eef8-4f71-af19-8d076619715d)
+
 
