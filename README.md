@@ -1,5 +1,5 @@
 # Dashboard-Power-BI
-Dashboard created using business intelligence tools. In this example, SQL, Python, and DAX were used for model development. Below are some sample visualizations.
+Dashboard created using business intelligence tools. In this example, SQL, Power Query, Python and DAX were used for model development. Below are some sample visualizations.
 
 Below is the model of the databases used for building the BI application.
 
