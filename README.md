@@ -9,4 +9,8 @@ The data has been manipulated and does not reflect the actual information.
 
 ![Captura de tela 2024-08-22 122809](https://github.com/user-attachments/assets/cb229223-eef8-4f71-af19-8d076619715d)
 
+Part II.
+
+![image](https://github.com/user-attachments/assets/17edb876-b003-4e79-b9ba-d290a615c096)
+
 
